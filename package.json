@@ -1,0 +1,5 @@
+{
+  "name": "dodgers-proxy",
+  "version": "1.0.0",
+  "description": "ESPN proxy for ESP32 Dodgers tracker"
+}
